@@ -1,4 +1,4 @@
-# Welcome to Lumi-Dex 🚀
+# Welcome to Lumi-Dex 
 
 ![Lumi-Dex](https://github.com/user-attachments/assets/10a75a40-204a-4ea4-889c-c8ff7f11e52b)
 
